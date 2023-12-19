@@ -1,5 +1,7 @@
 # Deformable-Tetrahedral-Meshes-with-Gaussian-Splats-for-Fast-Rendering
 
+This paper presents an innovative approach to 3D reconstruction and real-time rendering, focusing on the challenges posed by deformable objects. We introduce a novel integration of deformable tetrahedral meshes, leveraging DefTet, with 3D Gaussian splatting for efficient and high-fidelity radiance field rendering. Our method addresses the need for realistic, interactive environments in VR/AR, enhances surgical planning through accurate medical imaging simulations, and contributes to more immersive experiences in animation and gaming. By dynamically adjusting embedded Gaussians within the deformable mesh using barycentric coordinates, we achieve accurate modeling of deformations and efficient real-time rendering. This approach not only optimizes the rendering process for complex scenes but also scales effectively for large-scale applications, offering a significant advancement in various fields requiring detailed and dynamic 3D representations.
+
 # Combined Installation Instructions for DefTet and 3D Gaussian Splatting Projects
 
 This README provides a combined guide for setting up both the DefTet and 3D Gaussian Splatting projects.
