@@ -97,7 +97,7 @@ This README provides a combined guide for setting up both the DefTet and 3D Gaus
 
 
 ## Part 3: Installation Instructions for 3D-Chamfer-Loss-with-Mahalanobis-Distance
-Installation instructions can be found at the original repository: [HarshitGupta29/3D-Chamfer-Loss-with-Mahalanobis-Distance](https://github.com/HarshitGupta29/3D-Chamfer-Loss-with-Mahalanobis-Distance).
+#### Installation instructions can be found at the original repository: [HarshitGupta29/3D-Chamfer-Loss-with-Mahalanobis-Distance](https://github.com/HarshitGupta29/3D-Chamfer-Loss-with-Mahalanobis-Distance).
 ---
 
 *Note: This guide combines only the installation and setup aspects of both projects. For specific usage, training, and evaluation instructions, refer to the individual project documentation or README files.*
