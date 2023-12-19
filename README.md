@@ -2,7 +2,7 @@
 
 This paper presents an innovative approach to 3D reconstruction and real-time rendering, focusing on the challenges posed by deformable objects. We introduce a novel integration of deformable tetrahedral meshes, leveraging DefTet, with 3D Gaussian splatting for efficient and high-fidelity radiance field rendering. Our method addresses the need for realistic, interactive environments in VR/AR, enhances surgical planning through accurate medical imaging simulations, and contributes to more immersive experiences in animation and gaming. By dynamically adjusting embedded Gaussians within the deformable mesh using barycentric coordinates, we achieve accurate modeling of deformations and efficient real-time rendering. This approach not only optimizes the rendering process for complex scenes but also scales effectively for large-scale applications, offering a significant advancement in various fields requiring detailed and dynamic 3D representations.
 
-# Combined Installation Instructions for DefTet and 3D Gaussian Splatting Projects
+# Installation Instructions
 
 This README provides a combined guide for setting up both the DefTet and 3D Gaussian Splatting projects.
 
@@ -95,6 +95,9 @@ This README provides a combined guide for setting up both the DefTet and 3D Gaus
 6. **Processing Your Own Scenes**:
    Follow the instructions provided for using your images and converting them to suitable formats using `convert.py`.
 
+
+## Part 3: Installation Instructions for 3D-Chamfer-Loss-with-Mahalanobis-Distance
+Installation instructions can be found at the original repository: [HarshitGupta29/3D-Chamfer-Loss-with-Mahalanobis-Distance](https://github.com/HarshitGupta29/3D-Chamfer-Loss-with-Mahalanobis-Distance).
 ---
 
 *Note: This guide combines only the installation and setup aspects of both projects. For specific usage, training, and evaluation instructions, refer to the individual project documentation or README files.*
