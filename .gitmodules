@@ -1,3 +1,6 @@
 [submodule "gaussian-splatting"]
 	path = gaussian-splatting
 	url = https://github.com/graphdeco-inria/gaussian-splatting.git
+[submodule "3D-Chamfer-Loss-with-Mahalanobis-Distance"]
+	path = 3D-Chamfer-Loss-with-Mahalanobis-Distance
+	url = https://github.com/HarshitGupta29/3D-Chamfer-Loss-with-Mahalanobis-Distance.git
