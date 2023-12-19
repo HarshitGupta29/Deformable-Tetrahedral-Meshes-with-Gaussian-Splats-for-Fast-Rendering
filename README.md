@@ -96,3 +96,12 @@ This README provides a combined guide for setting up both the DefTet and 3D Gaus
 ---
 
 *Note: This guide combines only the installation and setup aspects of both projects. For specific usage, training, and evaluation instructions, refer to the individual project documentation or README files.*
+
+## Training
+### Dataset
+We use synthetic NeRF dataset.
+```bash
+cd diff_render/diftet_6_subdiv/6_optim
+python optim_with_mask_subdiv_from_gridmov.py --expname <Dataset name> --datadir <path to data directory> --savedir <path to output directory> --gaussianpth <path to gaussian point cloud from 3DGS> --remote
+```
+
