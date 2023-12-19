@@ -102,6 +102,6 @@ This README provides a combined guide for setting up both the DefTet and 3D Gaus
 We use synthetic NeRF dataset.
 ```bash
 cd diff_render/diftet_6_subdiv/6_optim
-python optim_with_mask_subdiv_from_gridmov.py --expname <Dataset name> --datadir <path to data directory> --savedir <path to output directory> --gaussianpth <path to gaussian point cloud from 3DGS> --remote
+python optim_with_mask_subdiv_from_gridmov.py --expname <dataset name> --datadir <path to data directory> --savedir <path to output directory> --gaussianpth <path to gaussian point cloud from 3DGS> --remote
 ```
 
